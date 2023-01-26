@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\bin\Debug\net6.0\Zadanie13.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\bin\Debug\net6.0\Zadanie13.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\bin\Debug\net6.0\Zadanie13.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\bin\Debug\net6.0\Zadanie13.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\bin\Debug\net6.0\Zadanie13.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\refint\Zadanie13.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\Zadanie13.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Zadanie13\obj\Debug\net6.0\ref\Zadanie13.dll

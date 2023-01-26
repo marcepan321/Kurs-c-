@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\bin\Debug\net6.0\Instrukcje skoków.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\bin\Debug\net6.0\Instrukcje skoków.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\bin\Debug\net6.0\Instrukcje skoków.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\bin\Debug\net6.0\Instrukcje skoków.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\bin\Debug\net6.0\Instrukcje skoków.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\refint\Instrukcje skoków.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\Instrukcje skoków.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Instrukcje skoków\obj\Debug\net6.0\ref\Instrukcje skoków.dll

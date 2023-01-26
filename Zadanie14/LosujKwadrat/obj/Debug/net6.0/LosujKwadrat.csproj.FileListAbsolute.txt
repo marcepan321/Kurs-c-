@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\bin\Debug\net6.0\LosujKwadrat.exe
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\bin\Debug\net6.0\LosujKwadrat.deps.json
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\bin\Debug\net6.0\LosujKwadrat.runtimeconfig.json
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\bin\Debug\net6.0\LosujKwadrat.dll
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\bin\Debug\net6.0\LosujKwadrat.pdb
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.dll
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\refint\LosujKwadrat.dll
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.pdb
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\LosujKwadrat.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Zadanie14\LosujKwadrat\obj\Debug\net6.0\ref\LosujKwadrat.dll

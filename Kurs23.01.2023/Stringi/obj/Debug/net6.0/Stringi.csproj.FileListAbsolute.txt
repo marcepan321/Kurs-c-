@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\bin\Debug\net6.0\Stringi.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\bin\Debug\net6.0\Stringi.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\bin\Debug\net6.0\Stringi.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\bin\Debug\net6.0\Stringi.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\bin\Debug\net6.0\Stringi.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\refint\Stringi.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\Stringi.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Stringi\obj\Debug\net6.0\ref\Stringi.dll

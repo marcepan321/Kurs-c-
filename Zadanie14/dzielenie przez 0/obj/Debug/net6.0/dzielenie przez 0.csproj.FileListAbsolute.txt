@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\bin\Debug\net6.0\dzielenie przez 0.exe
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\bin\Debug\net6.0\dzielenie przez 0.deps.json
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\bin\Debug\net6.0\dzielenie przez 0.runtimeconfig.json
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\bin\Debug\net6.0\dzielenie przez 0.dll
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\bin\Debug\net6.0\dzielenie przez 0.pdb
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.dll
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\refint\dzielenie przez 0.dll
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.pdb
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\dzielenie przez 0.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Zadanie14\dzielenie przez 0\obj\Debug\net6.0\ref\dzielenie przez 0.dll

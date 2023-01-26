@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\bin\Debug\net6.0\Pętle komunkacja.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\bin\Debug\net6.0\Pętle komunkacja.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\bin\Debug\net6.0\Pętle komunkacja.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\bin\Debug\net6.0\Pętle komunkacja.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\bin\Debug\net6.0\Pętle komunkacja.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\refint\Pętle komunkacja.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\Pętle komunkacja.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Pętle komunkacja\obj\Debug\net6.0\ref\Pętle komunkacja.dll

@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\bin\Debug\net6.0\Dzien4.exe
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\bin\Debug\net6.0\Dzien4.deps.json
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\bin\Debug\net6.0\Dzien4.runtimeconfig.json
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\bin\Debug\net6.0\Dzien4.dll
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\bin\Debug\net6.0\Dzien4.pdb
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.dll
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\refint\Dzien4.dll
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.pdb
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\Dzien4.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Zadanie14\Dzien4\obj\Debug\net6.0\ref\Dzien4.dll

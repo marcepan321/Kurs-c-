@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\bin\Debug\net6.0\zadanie 5.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\bin\Debug\net6.0\zadanie 5.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\bin\Debug\net6.0\zadanie 5.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\bin\Debug\net6.0\zadanie 5.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\bin\Debug\net6.0\zadanie 5.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\refint\zadanie 5.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\zadanie 5.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\zadanie 5\obj\Debug\net6.0\ref\zadanie 5.dll

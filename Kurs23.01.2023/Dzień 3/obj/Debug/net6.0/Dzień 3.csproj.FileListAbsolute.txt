@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\bin\Debug\net6.0\Dzień 3.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\bin\Debug\net6.0\Dzień 3.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\bin\Debug\net6.0\Dzień 3.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\bin\Debug\net6.0\Dzień 3.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\bin\Debug\net6.0\Dzień 3.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\refint\Dzień 3.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\Dzień 3.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzień 3\obj\Debug\net6.0\ref\Dzień 3.dll

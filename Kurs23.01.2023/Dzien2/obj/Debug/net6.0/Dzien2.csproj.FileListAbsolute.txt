@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\bin\Debug\net6.0\Dzien2.exe
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\bin\Debug\net6.0\Dzien2.deps.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\bin\Debug\net6.0\Dzien2.runtimeconfig.json
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\bin\Debug\net6.0\Dzien2.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\bin\Debug\net6.0\Dzien2.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\refint\Dzien2.dll
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.pdb
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\Dzien2.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Kurs23.01.2023\Dzien2\obj\Debug\net6.0\ref\Dzien2.dll

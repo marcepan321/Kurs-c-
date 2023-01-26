@@ -1,0 +1,15 @@
+C:\Users\PLC\source\repos\Zadanie14\Losowe\bin\Debug\net6.0\Losowe.exe
+C:\Users\PLC\source\repos\Zadanie14\Losowe\bin\Debug\net6.0\Losowe.deps.json
+C:\Users\PLC\source\repos\Zadanie14\Losowe\bin\Debug\net6.0\Losowe.runtimeconfig.json
+C:\Users\PLC\source\repos\Zadanie14\Losowe\bin\Debug\net6.0\Losowe.dll
+C:\Users\PLC\source\repos\Zadanie14\Losowe\bin\Debug\net6.0\Losowe.pdb
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.csproj.AssemblyReference.cache
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.AssemblyInfoInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.AssemblyInfo.cs
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.csproj.CoreCompileInputs.cache
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.dll
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\refint\Losowe.dll
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.pdb
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\Losowe.genruntimeconfig.cache
+C:\Users\PLC\source\repos\Zadanie14\Losowe\obj\Debug\net6.0\ref\Losowe.dll
